@@ -1,0 +1,56 @@
+/* Add your styles here */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f4f8;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 50px auto;
+    background-color: #fff;
+    padding: 40px;
+    border-radius: 20px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 30px;
+    color: #333;
+    font-size: 36px;
+}
+
+h2 {
+    color: #007BFF;
+    font-size: 24px;
+    margin-top: 30px;
+}
+
+p {
+    margin-bottom: 20px;
+    line-height: 1.5;
+}
+
+strong {
+    font-weight: bold;
+}
+
+#resumeData {
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
+}
+
+#resumeData h2:first-child {
+    margin-top: 0;
+}
+
+#resumeData p {
+    margin: 0;
+}
+
+/* Add more styles as needed */
